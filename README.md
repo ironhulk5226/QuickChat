@@ -1,6 +1,6 @@
 # QuickChat 💬
 
-A full-stack real-time messaging web application with one-on-one chat, live online status, and image sharing.
+A full-stack real-time messaging web application with one-on-one chat using Web Sockets, live online status, and image sharing.
 
 ## Table of Contents
 
