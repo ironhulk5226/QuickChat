@@ -2,7 +2,7 @@ import React, { useEffect, useRef , useState } from 'react'
 import assets, { messagesDummyData } from '../assets/assets'
 import { formatMessageTime } from '../lib/utils';
 import { useContext } from 'react';
-import { ChatContext } from '../../context/chatContext';
+import { ChatContext } from '../../context/ChatContext';
 import { AuthContext } from '../../context/AuthContext';
 
 const ChatContainer = () => { //{selectedUser,setSelectedUser}
